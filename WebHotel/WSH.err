@@ -1,0 +1,10 @@
+/COM,ANSYS RELEASE Release 18.0      BUILD 18.0      UP20161219       16:37:33
+
+ *** ERROR ***                           CP =       0.188   TIME= 16:37:34
+ Data file C:\Users\agouda\source\repos\WebHotel\WebHotel\WSH.db has     
+ incorrect format, is missing READ/WRITE permission, or is empty for     
+ RESUME.                                                                 
+
+ *** WARNING ***                         CP =       0.188   TIME= 16:37:34
+ WHILE PROCESSING FILE BASED INPUT (/INPUT OR MACRO) AN ERROR HAS        
+ OCCURRED.  SHOULD INPUT PROCESSING BE SUSPENDED?                        
